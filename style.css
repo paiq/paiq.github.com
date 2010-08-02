@@ -1,0 +1,44 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: white;
+	font: 15.5px helvetica, arial, clean, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-size: 100%;
+}
+
+h1 {
+	margin: 2.5em 0 1em 0;
+}
+
+p {
+	margin: 1em 0;
+}
+
+a {
+	color: #a00;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+table {
+	font-size: inherit;
+	font: 100%;
+}
+
+ul {
+	margin: 0 0 0 2em;
+}
+
+#container {
+	width: 35em;
+	margin: 2em auto;
+}
